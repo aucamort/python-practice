@@ -1,6 +1,5 @@
 # Modify program 1 to output the total weight of each of these combinations 
-# of coins. To do this, you will need to figure out how much pennies, 
-# nickels, dimes, and quarters actually weigh, because I don't know this. 
+# of coins. 
 
 # Time: 3 minutes
 
